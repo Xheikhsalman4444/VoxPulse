@@ -1,1 +1,16 @@
-chunked
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Node dependencies
+node_modules/
+
+# OS noise
+.DS_Store
+Thumbs.db
